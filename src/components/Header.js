@@ -1,7 +1,15 @@
+import "../styles/Header.css";
+
 function Header(){
     return (
         <div className="Header">
-            <h2>Olá mundo do header</h2>
+            <div className="header__logo">
+                <h2>Logo</h2>
+            </div>
+            <div className="header__menu">
+                <a href="https://www.google.com.br">Home</a>
+                <a href="https://www.google.com.br">Sobre</a>
+            </div>
         </div>
     );
 }

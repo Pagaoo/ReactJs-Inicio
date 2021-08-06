@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.header__logo {
+    color: red;
+}
+
+.header__menu a {
+    margin-right: 20px;
+}
