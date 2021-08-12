@@ -1,6 +1,5 @@
 # Curso ReactJs
-
-Projeto para aprender o básico de ReactJS, fazendo um relógio.
+Aprendendo coisas básicas do ReactJS
 
 # Getting Started with Create React App
 
